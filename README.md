@@ -15,7 +15,7 @@ Link to ZeForge Discord server: https://discord.gg/x2enz95pDF
 Make sure you have the following installed:
 
 - Node.js (https://nodejs.org/en/download/package-manager)
-- pnpm (https://pnpm.io/installation) <a href="https://pnpm.io/installation" target="_blank">pnpm.io/installation>
+- pnpm (https://pnpm.io/installation)
 
 
 ### Installation
